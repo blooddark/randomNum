@@ -1,0 +1,49 @@
+c:\users\admin\documents\visual studio 2012\Projects\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.exe.config
+c:\users\admin\documents\visual studio 2012\Projects\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.exe
+c:\users\admin\documents\visual studio 2012\Projects\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.pdb
+c:\users\admin\documents\visual studio 2012\Projects\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2012\Projects\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2012\Projects\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.exe
+c:\users\admin\documents\visual studio 2012\Projects\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.pdb
+c:\users\admin\documents\visual studio 2012\Projects\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.formMain.resources
+c:\users\admin\documents\visual studio 2012\Projects\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.formSet.resources
+E:\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.exe.config
+E:\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.exe
+E:\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.pdb
+E:\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.exe
+E:\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.pdb
+E:\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.csprojResolveAssemblyReference.cache
+E:\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.formMain.resources
+E:\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.formSet.resources
+E:\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.Properties.Resources.resources
+E:\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.exe.config
+C:\Users\admin\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.exe
+C:\Users\admin\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.pdb
+C:\Users\admin\Desktop\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.exe
+C:\Users\admin\Desktop\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.pdb
+C:\Users\admin\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.formMain.resources
+C:\Users\admin\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.formSet.resources
+C:\Users\admin\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.Properties.Resources.resources
+C:\Users\admin\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.csproj.GenerateResource.Cache
+E:\download\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.exe.config
+E:\download\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.exe
+E:\download\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.pdb
+E:\download\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.exe
+E:\download\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.pdb
+E:\download\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.csprojResolveAssemblyReference.cache
+E:\download\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.formMain.resources
+E:\download\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.formSet.resources
+E:\download\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.Properties.Resources.resources
+E:\download\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.csproj.GenerateResource.Cache
+C:\Users\a9296\Desktop\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.exe.config
+C:\Users\a9296\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.exe
+C:\Users\a9296\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.pdb
+C:\Users\a9296\Desktop\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.exe
+C:\Users\a9296\Desktop\随机作业收缴\随机作业收缴\bin\Debug\随机作业收缴.pdb
+C:\Users\a9296\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.csprojResolveAssemblyReference.cache
+C:\Users\a9296\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.formMain.resources
+C:\Users\a9296\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.formSet.resources
+C:\Users\a9296\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.Properties.Resources.resources
+C:\Users\a9296\Desktop\随机作业收缴\随机作业收缴\obj\Debug\随机作业收缴.csproj.GenerateResource.Cache
